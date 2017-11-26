@@ -1,5 +1,5 @@
 =======
-mxlearn
+MXLearn: Deep learning library featuring a higher-level API for mxnet.
 =======
 
 
@@ -22,13 +22,42 @@ Deep learning library featuring a higher-level API for mxnet.
 
 
 * Free software: Apache Software License 2.0
-* Documentation: https://mxlearn.readthedocs.io.
+* Documentation: 
 
+Overview
+--------
+
+* TODO
 
 Features
 --------
 
 * TODO
+
+Installation
+--------
+
+* TODO
+
+Getting Started
+--------
+
+* TODO
+
+Examples
+--------
+
+* TODO
+
+Documentation
+--------
+
+https://mxlearn.readthedocs.io.
+
+
+License
+-------
+[Apache Software License 2.0](http://www.apache.org/licenses/LICENSE-2.0)
 
 Credits
 ---------
