@@ -58,7 +58,7 @@ https://mxlearn.readthedocs.io.
 License
 -------
 
-`Apache Software License 2.0`
+`Apache Software License 2.0`_
 
 .. _`Apache Software License 2.0`: http://www.apache.org/licenses/LICENSE-2.0
 
