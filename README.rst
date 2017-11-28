@@ -19,6 +19,7 @@ MXLearn: Deep learning library featuring a higher-level API for mxnet.
 
 
 Deep learning library featuring a higher-level API for mxnet_.
+
 .. _mxnet: https://github.com/apache/incubator-mxnet
 
 * Free software: Apache Software License 2.0
