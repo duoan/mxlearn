@@ -9,8 +9,8 @@ MXLearn: Deep learning library featuring a higher-level API for mxnet.
 .. image:: https://img.shields.io/travis/classtag/mxlearn.svg
         :target: https://travis-ci.org/classtag/mxlearn
 
-.. image:: https://readthedocs.org/projects/mxlearn/badge/?version=latest
-        :target: https://mxlearn.readthedocs.io/en/latest/?badge=latest
+.. image:: http://readthedocs.org/projects/mxlearn/badge/?version=latest
+        :target: http://mxlearn.readthedocs.io/en/latest/?badge=latest
         :alt: Documentation Status
 
 .. image:: https://pyup.io/repos/github/classtag/mxlearn/shield.svg
